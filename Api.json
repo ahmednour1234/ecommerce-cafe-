@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "img": "https://th.bing.com/th/id/OIP.0PAeTFUpPT5I4Z9lEl7RWwHaE7?pid=ImgDet&rs=1",
+        "price": "$20.26",
+        "name": "Burger"
+    },
+    {
+        "id": 2,
+        "img": "https://th.bing.com/th/id/OIP.0PAeTFUpPT5I4Z9lEl7RWwHaE7?pid=ImgDet&rs=1",
+        "price": "$50.26",
+        "name": "Eel Fresh"
+    },
+    {
+        "id": 3,
+        "img": "https://th.bing.com/th/id/OIP.0PAeTFUpPT5I4Z9lEl7RWwHaE7?pid=ImgDet&rs=1",
+        "price": "$90.26",
+        "name": "Eel Fresh"
+    },
+    {
+        "id": 4,
+        "img": "https://th.bing.com/th/id/OIP.0PAeTFUpPT5I4Z9lEl7RWwHaE7?pid=ImgDet&rs=1",
+        "price": "$100.26",
+        "name": "grson"
+    }
+]
