@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+*{
+    font-family:'Poppins',sans-serif;
+margin: 0;
+padding: 0;
+scroll-behavior: smooth;
+}
+i{
+    color: rgb(210, 171, 120);
+font-size:xx-large;
+}
+.cart0{
+    width: 100%;
+    height: 100%;
+    }
+.product{
+    width: 141px;
+height: 140px;
+}
+h1{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+color: #000000;
+}
+h2{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+color: #000000;
+}
+p{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+color: rgba(30, 30, 30, 0.63);
+}
+quantity{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height */
+    color: #000000;
+}
+price{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+color: #000000;
+}
+.details{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 13px;
+    
+}
+.alldetails5{
+    position: absolute;
+    top:150px;
+    left:70px;
+    display: grid;
+    flex-direction: column;
+    padding: 0px;
+    gap: 20px;
+}
+.rectangel{
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 80px;
+gap: 70px;
+width: 1000px;
+height: 250px; 
+background: #FFFFFF;
+}
+.quantity{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+width: 143px;
+height: 44px;
+}
+.message{
+    width: 600px;
+height: 122px;
+position: absolute;
+top: 200px;
+left:500px;
+font-family: 'Inspiration';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 122px;
+/* identical to box height */
+color: #ffffff;
+}
+.rectangel2{
+    width: 349px;
+height: 355px;
+background: #FFFFFF;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 20px;
+width: 349px;
+height: 350px;
+}
+.deliver{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 21px;
+}
+.price{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+}
+.deliverprice{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 58px;
+}
+.total{
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 157px;
+}
+.pay{
+width: 298px;
+height: 38px;
+background: #C5A676;
+border-radius: 5px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+color: #EBE5E5;
+}
+.continue{
+    width: 297px;
+height: 38px;
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+color: #C5A676;
+}
+.alldetails2{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 59px;
+width: 309px;
+height: 270px;
+position: absolute;
+width: 309px;
+height: 270px;
+left: 24px;
+top: 32px;
+}
+.all2{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 20px;
+position: absolute;
+left: 1095px;
+top: 100px;
+}

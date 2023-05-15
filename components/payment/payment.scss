@@ -1,0 +1,146 @@
+.payment{
+        width: 100%;
+        height: 100%;
+}
+input{
+width: 351px;
+height: 51px;
+background: #FFFFFF;
+border: 2px solid rgba(30, 30, 30, 0.4);
+border-radius: 20px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+color: rgba(30, 30, 30, 0.71);
+}
+.names{
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 200px;
+width: 902px;
+height: 51px;
+}
+.expiry{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 200px;
+width: 902px;
+height: 51px;
+}
+.data{
+    display: flex;
+    flex-direction:column;
+align-items: flex-start;
+padding: 0px;
+gap: 50px;
+width: 902px;
+height: 51px;
+}
+h1{
+    width: 400px;
+height: 48px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 48px;
+color: #000000;
+}
+.pay{
+    height: 41px;
+    border-radius: 20px 0px;
+background: #C5A676;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 32px;
+position: absolute;
+left: 320px;
+/* identical to box height */
+color: rgba(255, 255, 255, 0.966);
+cursor: pointer;
+}
+.contactinformation{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items:center;
+gap: 150px;
+position: absolute;
+width: 996px;
+height: 501px;
+left: 250px;
+top: 200px;
+background: #FFFFFF;
+box-shadow: 5px 5px 4px #C5A676;
+}
+.page1{
+    display: flex;
+    justify-content: center;
+    align-self:flex-start;
+    width: 50px;
+    height: 50px;
+    background: #C5A676;
+    transform: rotate(-50deg);
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 48px;
+color: #FFFFFF;
+}
+.page2{
+    display: flex;
+    justify-content: center;
+    align-self:flex-start;
+    width: 50px;
+    height: 50px;
+    background: #C5A676;
+    transform: rotate(-50deg);
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 48px;
+color: #FFFFFF;
+}
+.page3{
+    display: flex;
+    justify-content: center;
+    align-self:flex-start;
+    width: 50px;
+    height: 50px;
+    background:#FFFFFF;
+    transform: rotate(-50deg);
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 48px;
+color:#C5A676;
+border: 4px solid #C5A676;
+
+}
+span{
+transform: rotate(50deg);
+}
+.pages{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 200px;
+position: absolute;
+width: 611.32px;
+height: 70.44px;
+left: 476px;
+top: 100px;
+}

@@ -1,0 +1,133 @@
+.menu0{
+width: 100%;
+height: 650px;
+}
+.backmenu{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 0px;
+}
+h1{
+    font-family:cursive;
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 80px;
+/* identical to box height */
+color: #FFFFFF;
+}
+.line{
+    width: 350px;
+height: 0px;
+border: 2px solid #C5A676;
+transform: rotate(-0.41deg);
+}
+.h1line{
+    position: absolute;
+width: 425px;
+height: 137px;
+left: 600px;
+top: 140px;
+}
+.menu{
+    width: 250px;
+height: 214.73px;
+}
+a{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 58px;
+/* identical to box height */
+color: #C5A676;
+text-decoration: none;
+}
+.menu1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+}
+.cardsmenu{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 108px;
+position: absolute;
+width: 1333px;
+height: 284px;
+left:100px;
+top: 300px;
+}
+span{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+color: #C5A676;
+}
+.pspan{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+color: #FFFFFF;
+}
+.imgbest{
+        width: 149px;
+    height: 150px;
+}
+.pbest{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 20px;
+    height: 78px;
+}
+.cardbest{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 20px;
+}
+.cards{
+    display: grid;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 80px;
+grid-template-columns: repeat(2,Auto);
+}
+.best{
+    display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 20px;
+}
+.menudetails{
+    display: grid;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 50px;
+    grid-template-columns: repeat(2,Auto);  
+    position: absolute;
+left:350px;
+top: 650px;
+}
